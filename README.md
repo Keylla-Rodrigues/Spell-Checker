@@ -1,2 +1,2 @@
-# Spell-Checker
+# Spell-checker
  Code that checks spelling
